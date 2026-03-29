@@ -64,8 +64,3 @@ The State Design Pattern is used to manage seat behavior. Each `Seat` object con
 
 ### Steps to Execute
 
-Clone the repository:
-
-```bash
-git clone <your-repository-url>
-cd <repository-folder>
